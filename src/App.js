@@ -17,7 +17,7 @@ const App = () => {
       <h1>Student Information System</h1>
       <h5>Powered By: moxDroid Labs Inc. || DevOps</h5>
       <StudentForm addStudent={addStudent} />
-      Developerd By: nazanin 
+      Developerd By: nazanin
       <StudentList students={students} />
     </div>
   );
